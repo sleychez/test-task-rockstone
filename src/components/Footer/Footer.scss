@@ -1,0 +1,14 @@
+.App-footer{
+  grid-area: f;
+  text-align:center;
+  font-family: Bahnschrift, sans-serif;
+  background: #2C3F59;
+  >p{
+    padding: 10px;
+    display:inline-block;
+    margin: 13px 0 0 0;
+    color: #F7F5F2;
+    font-size: 18px;
+    text-shadow: 2px 2px 5px rgba(0,0,0,1);
+  }
+}

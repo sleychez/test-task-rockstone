@@ -1,0 +1,77 @@
+.app-numpad .app-numpad-last-block > button, .app-numpad .app-numpad-third-block > button, .app-numpad .app-numpad-second-block > button, .app-numpad .app-numpad-first-block > button {
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  width: 84px;
+  margin: 2px;
+  border: 1px solid gray;
+  border-radius: 20px;
+  padding: 35px;
+  font-size: 22px;
+  background: #F7F5F2;
+}
+
+.app-numpad, .app-input-to-output, .app-input {
+  background: #F7F5F2;
+  border: 2px solid #E9E9E9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+}
+
+.app-input-output-form {
+  position: relative;
+  display: grid;
+  grid-template-areas: "inp" "nump out";
+  grid-template-rows: 355px 1fr 1fr;
+  grid-template-columns: 100% 100% 100%;
+  max-width: 100%;
+  height: 50%;
+}
+
+.app-input {
+  position: absolute;
+  grid-area: inp;
+  bottom: 40%;
+  left: 25%;
+  width: 50%;
+  border-radius: 25px;
+  text-align: center;
+  margin: 30vh 0 0 0;
+  padding: 10px 0 10px 0;
+  font-size: 32px;
+  height: 70px;
+}
+
+.app-input-to-output {
+  position: absolute;
+  grid-area: inp;
+  padding: 19px;
+  bottom: 40%;
+  left: 75%;
+  margin: 3px 0 0 15px;
+  font-size: 24px;
+  height: 70px;
+}
+
+.app-numpad {
+  grid-area: nump;
+  position: absolute;
+  top: 65%;
+  left: 32%;
+}
+.app-numpad .app-numpad-first-block {
+  display: block;
+}
+.app-numpad .app-numpad-second-block {
+  display: block;
+  border-radius: 20px;
+}
+.app-numpad .app-numpad-third-block {
+  display: block;
+  border-radius: 20px;
+}
+.app-numpad .app-numpad-last-block {
+  display: block;
+  border-radius: 20px;
+  margin: 0 0 0 85px;
+}
+
+/*# sourceMappingURL=AppInput.css.map */

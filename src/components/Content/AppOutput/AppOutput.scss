@@ -1,0 +1,22 @@
+.app-output-form{
+  left:50%;
+  grid-area: out;
+  position:absolute;
+  top:70%;
+  width:50%;
+}
+.app-output-remains{
+  position: absolute;
+  margin-top: 5px;
+  font-size: 18px;
+}
+.app-final-output{
+  position: absolute;
+  font-size: 18px;
+  margin-top:25px;
+}
+.app-output-sum{
+  position: absolute;
+  bottom: 20%;
+  font-size: 24px;
+}

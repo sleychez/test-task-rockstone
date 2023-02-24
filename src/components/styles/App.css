@@ -1,0 +1,18 @@
+@import 'nullstyle.css';
+.App-wrapper {
+  display: grid;
+  grid-template-areas: "h" "c" "f";
+  grid-template-rows: 60px 1fr 60px;
+  grid-template-columns: 100%;
+  width: 100%;
+  margin: 0;
+  height: 100vh;
+}
+
+.App-content {
+  grid-area: c;
+  text-align: center;
+  background-color: #E4E1DA;
+}
+
+/*# sourceMappingURL=App.css.map */

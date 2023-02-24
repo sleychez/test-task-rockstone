@@ -1,0 +1,39 @@
+%generalStyle{
+  background: #F7F5F2;
+  border: 1px solid #E9E9E9;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-radius: 3px;
+  font-family: "Segoe UI", serif;
+  box-sizing: border-box;
+  color: #000000;
+}
+
+.App-header{
+    grid-area: h;
+    background-color: #2C3F59;
+}
+.app-nominalo{
+  float: left;
+  padding: 5px;
+  margin: 15px 0 0 10px;
+  @extend %generalStyle;
+}
+
+.app-note{
+  float: right;
+  padding: 5px;
+  margin: 15px 10px 0 0;
+  @extend %generalStyle;
+}
+.app-input-navi{
+  text-align: center;
+  position: absolute;
+  left: 40%;
+  right: 40%;
+  padding: 5px;
+  margin: 15px 10px 0 0;
+  @extend %generalStyle;
+}
+.app-active{
+  display: none;
+}

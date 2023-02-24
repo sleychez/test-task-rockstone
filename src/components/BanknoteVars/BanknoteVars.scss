@@ -1,0 +1,10 @@
+.var-buttons{
+  position: absolute;
+  top: 40%;
+  >button{padding: 10px;
+    margin: 20px;
+    border: 2px solid #2C3F59;
+    border-radius: 25px;
+    box-shadow: 0 0 10px #2C3F59;
+  }
+}
