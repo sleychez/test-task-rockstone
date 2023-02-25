@@ -1,6 +1,6 @@
 # Test task by Rockstone. 
 
-You can see the result here: https://sleychez.github.io/test-task-rockstone/
+You can see the result here: https://sleychez.github.io/test-task-rockstone-/
 
 Реализовать “Виртуальный банкомат”:
 
