@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/test-task-rockstone-/static/css/main.675afbb6.chunk.css",
-    "main.js": "/test-task-rockstone-/static/js/main.6d7d7b38.chunk.js",
-    "main.js.map": "/test-task-rockstone-/static/js/main.6d7d7b38.chunk.js.map",
+    "main.js": "/test-task-rockstone-/static/js/main.c1e9d75f.chunk.js",
+    "main.js.map": "/test-task-rockstone-/static/js/main.c1e9d75f.chunk.js.map",
     "runtime-main.js": "/test-task-rockstone-/static/js/runtime-main.e2f8827d.js",
     "runtime-main.js.map": "/test-task-rockstone-/static/js/runtime-main.e2f8827d.js.map",
-    "static/js/2.9b91a4af.chunk.js": "/test-task-rockstone-/static/js/2.9b91a4af.chunk.js",
-    "static/js/2.9b91a4af.chunk.js.map": "/test-task-rockstone-/static/js/2.9b91a4af.chunk.js.map",
+    "static/js/2.5e7629cc.chunk.js": "/test-task-rockstone-/static/js/2.5e7629cc.chunk.js",
+    "static/js/2.5e7629cc.chunk.js.map": "/test-task-rockstone-/static/js/2.5e7629cc.chunk.js.map",
     "index.html": "/test-task-rockstone-/index.html",
     "static/css/main.675afbb6.chunk.css.map": "/test-task-rockstone-/static/css/main.675afbb6.chunk.css.map",
-    "static/js/2.9b91a4af.chunk.js.LICENSE.txt": "/test-task-rockstone-/static/js/2.9b91a4af.chunk.js.LICENSE.txt"
+    "static/js/2.5e7629cc.chunk.js.LICENSE.txt": "/test-task-rockstone-/static/js/2.5e7629cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e2f8827d.js",
-    "static/js/2.9b91a4af.chunk.js",
+    "static/js/2.5e7629cc.chunk.js",
     "static/css/main.675afbb6.chunk.css",
-    "static/js/main.6d7d7b38.chunk.js"
+    "static/js/main.c1e9d75f.chunk.js"
   ]
 }
