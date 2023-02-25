@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test-task-rockstone/static/css/main.675afbb6.chunk.css",
-    "main.js": "/test-task-rockstone/static/js/main.6d7d7b38.chunk.js",
-    "main.js.map": "/test-task-rockstone/static/js/main.6d7d7b38.chunk.js.map",
-    "runtime-main.js": "/test-task-rockstone/static/js/runtime-main.f1db71bc.js",
-    "runtime-main.js.map": "/test-task-rockstone/static/js/runtime-main.f1db71bc.js.map",
-    "static/js/2.9b91a4af.chunk.js": "/test-task-rockstone/static/js/2.9b91a4af.chunk.js",
-    "static/js/2.9b91a4af.chunk.js.map": "/test-task-rockstone/static/js/2.9b91a4af.chunk.js.map",
-    "index.html": "/test-task-rockstone/index.html",
-    "static/css/main.675afbb6.chunk.css.map": "/test-task-rockstone/static/css/main.675afbb6.chunk.css.map",
-    "static/js/2.9b91a4af.chunk.js.LICENSE.txt": "/test-task-rockstone/static/js/2.9b91a4af.chunk.js.LICENSE.txt"
+    "main.css": "/test-task-rockstone-/static/css/main.675afbb6.chunk.css",
+    "main.js": "/test-task-rockstone-/static/js/main.6d7d7b38.chunk.js",
+    "main.js.map": "/test-task-rockstone-/static/js/main.6d7d7b38.chunk.js.map",
+    "runtime-main.js": "/test-task-rockstone-/static/js/runtime-main.e2f8827d.js",
+    "runtime-main.js.map": "/test-task-rockstone-/static/js/runtime-main.e2f8827d.js.map",
+    "static/js/2.9b91a4af.chunk.js": "/test-task-rockstone-/static/js/2.9b91a4af.chunk.js",
+    "static/js/2.9b91a4af.chunk.js.map": "/test-task-rockstone-/static/js/2.9b91a4af.chunk.js.map",
+    "index.html": "/test-task-rockstone-/index.html",
+    "static/css/main.675afbb6.chunk.css.map": "/test-task-rockstone-/static/css/main.675afbb6.chunk.css.map",
+    "static/js/2.9b91a4af.chunk.js.LICENSE.txt": "/test-task-rockstone-/static/js/2.9b91a4af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1db71bc.js",
+    "static/js/runtime-main.e2f8827d.js",
     "static/js/2.9b91a4af.chunk.js",
     "static/css/main.675afbb6.chunk.css",
     "static/js/main.6d7d7b38.chunk.js"
